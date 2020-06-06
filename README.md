@@ -7,6 +7,6 @@ This repository contains 2 JS exercises.
 (one of the right email is mario@rossi.it)
 ### [Live Version exercise 2](https://gianluigivitale.github.io/js-mail-dadi/es2/)
 ***
-_Preview:_
+### Preview:
 
 ![Preview](img/preview.jpg "Preview")
